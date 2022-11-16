@@ -29,5 +29,4 @@ animals in the field and emit bright light or give out a repelling
 sound, which will scare away animals.
 
 
-https://user-images.githubusercontent.com/81354047/202098614-d7b28276-e3c0-46ca-b5e9-7da98e556607.MP4
 
