@@ -1,8 +1,15 @@
 # PIR-Sensor-Module
 The Passive Infra-Red (PIR) sensor module detects IR emitting
-objects within a certain range. The module consists of an
-PIR sensor, resistors, capacitors, operational amplifiers, potentiometers,
-switches, and buzzer and/or lamp. The characteristics
+objects within a certain range. The module consists of:
+1. RE200b PIR sensor
+2. Resistors
+3. Capacitors
+4. Operational amplifiers
+5. Potentiometers
+6. Switches
+7. Buzzer and/or lamp. 
+
+The characteristics
 of the module heavily depends on the type of the IR
 sensor chosen for the project i.e. whether the module can detect
 both objects in motion and motionless objects in the field
@@ -10,6 +17,7 @@ of detection.
 The range of the detection can be increased up to 5m, with
 increments of 1m. The output of the module is given by the
 buzzer and/or lamp.
+
 The PIR sensor module has a variety of applications. For
 example, the module can be used as a security device by placing
 it suitably near a doorway (or passage, corridor, window,
